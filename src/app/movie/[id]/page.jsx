@@ -26,7 +26,7 @@ export default async function MoviePage({ params }) {
             height: "100%",
           }}
           placeholder="blur"
-          blurDataURL="spinner.svg"
+          blurDataURL="/spinner.svg"
           alt="Movie Poster"
         />
         <div className="p-2">
